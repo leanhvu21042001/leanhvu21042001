@@ -1,7 +1,7 @@
 # Hi there 👋
 My name is LAV. I love many things, but programming has had a special place in my heart ever since a young age. Here is some info on me.
 
-🌱 I’m currently learning ReactJS, Laravel, Java, ...
+🌱 I’m currently learning ReactJS, NodeJS, ExpressJS, NestJS, Laravel, Java, C# ...
 
 📫 How to reach me: https://www.facebook.com/nhatcungtom
 
