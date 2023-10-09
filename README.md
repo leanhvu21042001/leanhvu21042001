@@ -10,6 +10,7 @@
 
 ## Current:
 - [@Freelancer](https://github.com/leanhvu21042001)
+- [@Prime Commerce Asia](https://www.primecommerce.asia/)
 
 ## Companies worked:
 - [@GoldenOwlAsia](https://goldenowl.asia/)
