@@ -3,7 +3,7 @@
 > 
 > Contact me on: [**Facebook**](https://www.facebook.com/lavdev.fb), [**Email**](mailto:leanhvu21042001)
 
-🌱 Skills: ReactJS, NodeJS, ExpressJS, NestJS, Laravel, Java, C# ...
+🌱 Skills: React.js, Vue.js, NodeJS, Express.js, NestJS, Laravel, Java, C# ...
 
 ![leanhvu21042001 Github Stats](https://github-readme-stats.vercel.app/api?username=leanhvu21042001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
