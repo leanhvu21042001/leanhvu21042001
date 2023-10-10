@@ -8,10 +8,12 @@
 ![leanhvu21042001 Github Stats](https://github-readme-stats.vercel.app/api?username=leanhvu21042001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
 
+<!--
 ## Current:
 - [@Freelancer](https://github.com/leanhvu21042001)
-- [@Prime Commerce Asia](https://www.primecommerce.asia/)
 
 ## Companies worked:
 - [@GoldenOwlAsia](https://goldenowl.asia/)
 - [@MID](https://masothue.com/0312974791-cong-ty-tnhh-thuong-mai-dich-vu-mid)
+- [@Prime Commerce Asia](https://www.primecommerce.asia/)
+-->
