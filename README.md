@@ -3,21 +3,26 @@
 > 
 > Contact me on: [**Facebook**](https://www.facebook.com/lavdev.fb), [**Email**](mailto:leanhvu21042001)
 
-🌱 Skills: React.js, Vue.js, NodeJS, Express.js, NestJS, Laravel, Java, C# ...
+🌱 Languages: JavaScript, PHP, C# Java,, Python, Shell script, Swift, ...
+<br/>
+🌱 Frameworks and Libs: React.js, Vue.js, Express.js, NestJS, Laravel, Java Swing, Desktop Winforms .NET, ...
+<br/>
+🌱 Database: MYSQL, PostgreSQL, MongoDB, ...
 
-![leanhvu21042001 Github Stats](https://github-readme-stats.vercel.app/api?username=leanhvu21042001&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
+![leanhvu21042001 Github Stats](https://github-readme-stats.vercel.app/api?username=leanhvu21042001&show_icons=true&theme=tokyonight)
 
 <!--
 ## Current:
-- [@Freelancer](https://github.com/leanhvu21042001)
+- [@CEHSOFT](https://cehsoft.com/)
 
 ## Companies worked:
 - [@GoldenOwlAsia](https://goldenowl.asia/)
 - [@MID](https://masothue.com/0312974791-cong-ty-tnhh-thuong-mai-dich-vu-mid)
 - [@Prime Commerce Asia](https://www.primecommerce.asia/)
+- [@RIVERCRANE VIETNAM](https://rivercrane.vn/)
+- [@Freelancer](https://github.com/leanhvu21042001)
 
-
-I miss commit past date. 
+> first site in my life: https://sites.google.com/view/vuladev/trang-chu
 
 -->
