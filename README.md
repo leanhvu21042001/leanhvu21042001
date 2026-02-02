@@ -7,10 +7,12 @@
 <br/>
 🌱 Frameworks and Libs: React.js, Vue.js, Express.js, NestJS, Laravel, Java Swing, Desktop Winforms .NET, ...
 <br/>
-🌱 Database: MYSQL, PostgreSQL, MongoDB, ...
+🌱 Database: MYSQL, PostgreSQL, MongoDB, Redis, ...
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leanhvu21042001&layout=compact&theme=tokyonight)
 ![leanhvu21042001 Github Stats](https://github-readme-stats.vercel.app/api?username=leanhvu21042001&show_icons=true&theme=tokyonight)
+-->
 
 <!--
 ## Current:
